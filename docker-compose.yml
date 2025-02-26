@@ -13,7 +13,7 @@ services:
     networks:
       - notes-app-nw
     labels:
-      - "maintainer=Aryan007"
+      - "maintainer=Aryan"
 
   django_app:
     build:
